@@ -1,8 +1,8 @@
 "use strict";
 (() => {
-  var v = "https://collector.onedollarstats.com/events";
+  // var v = "https://collector.onedollarstats.com/events";
   var R = (g, i) => {
-    let l = document.createElement("style");
+    // let l = document.createElement("style");
     ((l.textContent = `
   .dev-modal {
     position: fixed;
